@@ -1,2 +1,2 @@
 # FlyingWindGenerator
-Flying Wind Generators simulater
+Flying Wind Generators simulator
